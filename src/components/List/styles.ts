@@ -19,7 +19,7 @@ export const Item = styled.div`
   }
 
   & + div {
-    border: 1px solid var(--outline);
+    border-top: 1px solid var(--outline);
   }
 `;
 
